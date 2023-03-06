@@ -1,12 +1,13 @@
 package controller
 
+/*
 import (
 	"context"
 
-	"github.com/revenue-hack/cleanarchitecture-sample/src/domain/userdm"
-	"github.com/revenue-hack/cleanarchitecture-sample/src/interface/presenter"
-	"github.com/revenue-hack/cleanarchitecture-sample/src/usecase/userusecase"
-	"github.com/revenue-hack/cleanarchitecture-sample/src/usecase/userusecase/userinput"
+	"github.com/revenue-hack/menta-ddd-sample/src/domain/userdm"
+	"github.com/revenue-hack/menta-ddd-sample/src/interface/presenter"
+	"github.com/revenue-hack/menta-ddd-sample/src/usecase/userusecase"
+	"github.com/revenue-hack/menta-ddd-sample/src/usecase/userusecase/userinput"
 )
 
 type userController struct {
@@ -51,3 +52,4 @@ func (c *userController) CreateUser(ctx context.Context, in *userinput.CreateUse
 	c.delivery.Create(out)
 	return nil
 }
+*/
